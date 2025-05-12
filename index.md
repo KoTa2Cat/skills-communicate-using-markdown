@@ -4,6 +4,12 @@ aaa | bbb
 -|-
 123 | 456
 
+### Task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] Commit change files 
+
 - One
  - Two
    - Three
