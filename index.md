@@ -17,3 +17,15 @@ aaa | bbb
 4. 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Comand Line
+``` 
+$ git init 
+/Users/skills/Projects/recipe-repository/.git/ に空の Git リポジトリを初期化しました
+```
+
+## Javacript
+```javascript
+var number = 10;
+var language = "japanese";
+```
